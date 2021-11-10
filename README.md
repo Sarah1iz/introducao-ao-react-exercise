@@ -2,7 +2,7 @@
 
 # Introdução ao React
 
-Os exercícios consistem em transformar um código feito com **HTML**, **CSS** e **Javascript** em um código feito com **REACT**
+Os exercícios consistem em transformar um código feito com **HTML**, **CSS** e **Javascript** em um código feito com **REACT** (Utilizando o **Create React App**)
 
 ## Exercícios de classe 🏫
 1. classe-01
