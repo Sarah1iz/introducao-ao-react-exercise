@@ -10,6 +10,21 @@ Os exercícios consistem em transformar um código feito com **HTML**, **CSS** e
 
 ---
 
+
+### DICAS:
+Não sabe por onde começar? Que tal começar olhando a estrutura de html e css existente, após isso crie o projeto em react.
+
+Nos exercícios será necessário:
+
+- Criar um projeto react com o create-react-app
+- Instalar as dependencias  e executar o projeto
+- Adicionar o código de CSS no App.css
+- Adicionar o código HTMl no component App.js
+- Importar e ajustar o caminho as imagens
+- Alterar o class das tags pra className
+
+---
+
 Preencha a checklist para fazer os exercícios:
 
 -   [ ] Fazer o fork do repositório para sua conta
