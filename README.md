@@ -7,6 +7,7 @@ Os exercícios consistem em transformar um código feito com **HTML**, **CSS** e
 ## Exercícios de classe 🏫
 1. classe-01
 2. classe-02
+3. Criar uma aplicação react com o create-react-app e criar o card do my-profile.fig (importar arquivo no figma), troque os dados do card pelas suas informações
 
 ---
 
@@ -22,6 +23,7 @@ Nos exercícios será necessário:
 - Adicionar o código HTMl no component App.js
 - Importar e ajustar o caminho as imagens
 - Alterar o class das tags pra className
+- Criar a estrutura HTML e CSS seguindo o figma
 
 ---
 
